@@ -3,7 +3,6 @@
 - 🌱 Estudando JavaScript
 - 📚 Cursando Sistemas para Internet
 - 📫 Contate-me no email: ErickWashintgtonSilva17@gmail.com
-- 😄 Pronomes: Ele/Dele
 
  
   </div>
