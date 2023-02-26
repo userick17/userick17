@@ -4,7 +4,6 @@
 - 📚 Cursando Sistemas para Internet
 - 📫 Contate-me no email: ErickWashintgtonSilva17@gmail.com
 
-##
  
   </div>
 
@@ -23,4 +22,4 @@
   <a href="https://www.youtube.com/channel/UCvdeiH5njMX5IVonIBUoakA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/erickuser170/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- ##
+ 
