@@ -19,8 +19,8 @@
 
 <div>
  <a href="https://github.com/UserErick17">
- <img height "180em" src="https://github-readme-stats.vercel.app/api?username=usererick17&show_icons=true&theme=dark"/>
-  <img height "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&layout=compact&theme=dark"/>
+ <img height "140em" src="https://github-readme-stats.vercel.app/api?username=usererick17&show_icons=true&theme=dark"/>
+  <img height "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&layout=compact&theme=dark"/>
  </div>
 
   
