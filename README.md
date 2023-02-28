@@ -5,13 +5,13 @@
 - 📫 Contate-me no email: ErickWashintgtonSilva17@gmail.com
 ##
 #Minhas Linguagens 
-  </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="user-pic" height="150" style="border-radius=50px;" src="https://yt3.ggpht.com/fKv9jFSFQAg6YYMiPlITnKHT_jq36QW_qafj8k8Dxir2cQZCbY9Hv94KtgczKL6pVv3MGqKaLKa4=s600-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">
+  <img align="right" alt="user-pic" height=180" src="https://yt3.ggpht.com/fKv9jFSFQAg6YYMiPlITnKHT_jq36QW_qafj8k8Dxir2cQZCbY9Hv94KtgczKL6pVv3MGqKaLKa4=s600-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">
 </div>
 
 ##
