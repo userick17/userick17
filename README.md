@@ -14,6 +14,13 @@
   <img align="right" alt="user-pic" height="150" style="border-radius=50px;" src="https://yt3.ggpht.com/fKv9jFSFQAg6YYMiPlITnKHT_jq36QW_qafj8k8Dxir2cQZCbY9Hv94KtgczKL6pVv3MGqKaLKa4=s600-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">
 </div>
 
+##
+
+<div>
+ <a href="https://github.com/UserErick17">
+ <img height "180em" src="https://github-readme-stats.vercel.app/api?username=usererick17&show_icons=true&theme=dark"/>
+  <img height "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&layout=compact&theme=dark"/>
+ </div>
 
   
   ##
