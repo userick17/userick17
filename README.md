@@ -1,4 +1,4 @@
-### Olá! Eu sou Erick Washington
+### Oiii! Eu sou Erick Washington
 
 - 🌱 Estudando JavaScript
 - 📚 Cursando Sistemas para Internet
