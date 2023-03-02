@@ -4,7 +4,7 @@
 - 📚 Cursando Sistemas para Internet
 - 📫 Contate-me no email: ErickWashintgtonSilva17@gmail.com
 ##
-📚Minhas Linguagens 
+💻Minhas Linguagens 
 
 
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@
                                                                                                                                                      </div>
   
   ##
- #Minhas Redes
+ 😎Minhas Redes
  
 <div> 
   <a href="https://www.youtube.com/channel/UCvdeiH5njMX5IVonIBUoakA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
