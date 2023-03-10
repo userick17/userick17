@@ -4,7 +4,7 @@
 - 📚 Cursando Sistemas para Internet
 - 📫 Contate-me no email: ErickWashintgtonSilva17@gmail.com
 ##
-- ### 💻 Minhas Linguagens 
+- ### 💻 Minhas Skills 
 
 
 <div style="display: inline_block"><br>
