@@ -42,8 +42,8 @@
   
  <div> 
   <a href="[https://github.com/UserErick17](https://github.com/UserErick17)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UserErick17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserErick17&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=UserErick17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserErick17&layout=compact&langs_count=16&theme=tokyonight"/>
   <img align="right" alt="user-pic" height="150" border-radius:"50px" height="150" src="https://yt3.ggpht.com/fKv9jFSFQAg6YYMiPlITnKHT_jq36QW_qafj8k8Dxir2cQZCbY9Hv94KtgczKL6pVv3MGqKaLKa4=s600-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">
                                                                                                                                                      </div>
   
