@@ -18,12 +18,12 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="border-radius:50%">
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erick-gds" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png">
   <img align="center" alt="Erick-ase" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/b/be/Aseprite_logo_128.png">
-  <img align="center" alt="Erick-ase" border-radius="10" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+  <img align="center" alt="Erick-ase" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
   
   
 </div>
