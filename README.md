@@ -38,10 +38,14 @@
  <img align="right" alt="user-pic" height="150" border-radius:"40" height="150" src="https://yt3.ggpht.com/c9GXChs7nukmlxRjsaEbO69JAfjO8Xrpt46aLtW7DnEpnG0lE0a_nsQ96ScriNKnAQc_y7ngQgpq=s512-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">  
   
   
-
-
- 
+ ##
   
+ - ###  My Stats
+
+
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=usererick17&theme=tokyonight&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&theme=tokyonight&show_icons=true))](https://github.com/usererick17/github-readme-stats)
+
   
 
  
