@@ -38,14 +38,9 @@
  <img align="right" alt="user-pic" height="150" border-radius:"40" height="150" src="https://yt3.ggpht.com/c9GXChs7nukmlxRjsaEbO69JAfjO8Xrpt46aLtW7DnEpnG0lE0a_nsQ96ScriNKnAQc_y7ngQgpq=s512-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">  
   
   
- ##
- - ### ✅ Meus Stats
-  
- <div> 
-  <a href="[https://github.com/UserErick17](https://github.com/UserErick17)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=UserErick17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserErick17&layout=compact&langs_count=16&theme=tokyonight"/>
- </div>
+
+
+ 
   
   
 
