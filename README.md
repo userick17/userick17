@@ -40,7 +40,7 @@
   
  ##
   
- - ###  Meus Status
+ - ###  ✔️ Meus Status
 
 <div>
 
