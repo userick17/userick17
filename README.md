@@ -40,12 +40,14 @@
   
  ##
   
- - ###  My Stats
+ - ###  Meus Status
 
+<div>
 
 ![Erick's github stats](https://github-readme-stats.vercel.app/api?username=usererick17&theme=tokyonight&show_icons=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&theme=tokyonight&show_icons=true))](https://github.com/usererick17/github-readme-stats)
-
+ 
+</div>
   
 
  
