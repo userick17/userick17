@@ -37,7 +37,9 @@
   <a href="https://www.instagram.com/erickuser170/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <img align="right" alt="user-pic" height="110" height="110" src="https://yt3.ggpht.com/c9GXChs7nukmlxRjsaEbO69JAfjO8Xrpt46aLtW7DnEpnG0lE0a_nsQ96ScriNKnAQc_y7ngQgpq=s512-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">  
   
+  ##
   
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Turn_Coffee_into_Code;)](https://git.io/typing-svg)
   
 
  
