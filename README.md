@@ -14,7 +14,7 @@
 
 - ### 💻 My Skills 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![LinuxMint](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,7 +27,7 @@
   
  - ### 😎 Reach Me
  
-<div> 
+<br><div> 
   <a href="https://www.youtube.com/channel/UCvdeiH5njMX5IVonIBUoakA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/erickuser170/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <img align="right" alt="user-pic" height="110" height="110" src="https://yt3.ggpht.com/c9GXChs7nukmlxRjsaEbO69JAfjO8Xrpt46aLtW7DnEpnG0lE0a_nsQ96ScriNKnAQc_y7ngQgpq=s512-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">  
