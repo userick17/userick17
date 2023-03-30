@@ -14,17 +14,14 @@
 
 - ### 💻 My Skills 
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![LinuxMint](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/PixelArt-pink?style=for-the-badge&logo=&logoColor=black)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="border-radius:50%">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-gds" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png">
-  <img align="center" alt="Erick-ase" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/b/be/Aseprite_logo_128.png">
-  <img align="center" alt="Erick-ase" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-  
-  
-</div>
   
  ##
   
@@ -41,14 +38,8 @@
   
  - ### :heavy_check_mark: My Stats
   
-  
-
-  
-<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=USERERICK17&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="USERERICK17 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERERICK17&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
   ##
