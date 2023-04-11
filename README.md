@@ -9,7 +9,7 @@
 > 📚 Studying: web systems <br>
 > 📫 Contact: ErickWashintgtonSilva17@gmail.com
 <div>
-<img align="right" alt="user-pic" height="150" border-radius:"50px" height="150" src="https://yt3.ggpht.com/fKv9jFSFQAg6YYMiPlITnKHT_jq36QW_qafj8k8Dxir2cQZCbY9Hv94KtgczKL6pVv3MGqKaLKa4=s600-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">
+<img align="right" alt="user-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/fKv9jFSFQAg6YYMiPlITnKHT_jq36QW_qafj8k8Dxir2cQZCbY9Hv94KtgczKL6pVv3MGqKaLKa4=s600-c-fcrop64=1,00000000ffffffff-nd-v1-rwa">
 </div>
 
  ##
@@ -43,11 +43,7 @@
   
   <br>
   
- > <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=USERERICK17&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="USERERICK17 github stats" /> 
-  ><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERERICK17&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
+[![User17's GitHub stats](https://github-readme-stats.vercel.app/api?username=usererick17&theme=radical)](https://github.com/usererick17/github-readme-stats
+)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&layout=compact&theme=radical)](https://github.com/usererick17/github-readme-stats)
   ##
-  
 
- 
