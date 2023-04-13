@@ -1,4 +1,4 @@
-# Hello! I'm Erick Washington 💚
+# <h1 align="center">Hello! I'm Erick Washington 💚</h1>
 <br>
 
   >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Turn_Coffee_into_Code;)](https://git.io/typing-svg)
@@ -42,8 +42,12 @@
   ### My Stats :heavy_check_mark:
   
   <br>
+<div align="center">  
   
 [![User17's GitHub stats](https://github-readme-stats.vercel.app/api?username=usererick17&theme=radical)](https://github.com/usererick17/github-readme-stats
 )[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usererick17&layout=compact&theme=radical)](https://github.com/usererick17/github-readme-stats)
-  ##
+
+   ##
+</div>
+ 
 
