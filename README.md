@@ -1,8 +1,7 @@
 # <h1 align="center">Hello! I'm Erick Washington 💚</h1>
 <br>
 
-  >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Turn_Coffee_into_Code;)](https://git.io/typing-svg)
- 
+  >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Turn_Coffee_into_Code;Cat_is_Life)](https://git.io/typing-svg)
  <br>
 
 > 🌱 Current Study: JavaScript <br>
