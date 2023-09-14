@@ -28,7 +28,7 @@
 <br>
 
 >[![My Skills](https://skillicons.dev/icons?i=js,html,css,godot,linux,vscode)](https://skillicons.dev)
-><img align="right" alt="user-pic" height="150" src="https://yt3.ggpht.com/c9GXChs7nukmlxRjsaEbO69JAfjO8Xrpt46aLtW7DnEpnG0lE0a_nsQ96ScriNKnAQc_y7ngQgpq=s512-c-fcrop64=1,00000000ffffffff-nd-v1-rwa"> 
+><img align="right" alt="Spinning Luigi" height="150" src="https://media.tenor.com/fzl1j4NuPIwAAAAi/spinning-luigi.gif"> 
 
   
  ##
