@@ -27,7 +27,7 @@
  ### My Skills 💻
 <br>
 
->[![My Skills](https://skillicons.dev/icons?i=js,html,css,godot,linux,vscode)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=js,html,css,markdown,godot,linux,vscode)](https://skillicons.dev)
 ><img align="right" alt="Spinning Luigi" height="150" src="https://media.tenor.com/fzl1j4NuPIwAAAAi/spinning-luigi.gif"> 
 
   
