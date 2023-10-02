@@ -18,8 +18,8 @@
   <br>
   
 ><div> 
- > <a href="https://www.youtube.com/channel/UCvdeiH5njMX5IVonIBUoakA" target="_blank"><img width="50px%" height="50px" src="https://cdn-icons-png.flaticon.com/512/3938/3938026.png" target="_blank"></a>
- > <a href="https://www.instagram.com/erickuser170/" target="_blank"><img width="50px%" height="50px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" target="_blank"></a>
+ > <a href="https://www.youtube.com/channel/userick17" target="_blank"><img width="50px%" height="50px" src="https://cdn-icons-png.flaticon.com/512/3938/3938026.png" target="_blank"></a>
+ > <a href="https://www.instagram.com/userick17/" target="_blank"><img width="50px%" height="50px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" target="_blank"></a>
  </div> 
   
 ##
