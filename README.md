@@ -2,6 +2,7 @@
 <br>
 
   >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Turn_Coffee_into_Code;Cat_is_Life)](https://git.io/typing-svg)
+
  <br>
 
 > 🌱 Current Study: JavaScript <br>
