@@ -2,7 +2,7 @@
 <br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Turn_Coffee_into_Code;Cat_is_Life)](https://git.io/typing-svg)
-
+  <img align="right" alt="Spinning Luigi" height="150" src="https://media.tenor.com/fzl1j4NuPIwAAAAi/spinning-luigi.gif"> 
 > 🌱 Current Study: JavaScript <br>
 > 📚 Studying: web systems <br>
 > 📫 Contact: ErickWashintgtonSilva17@gmail.com
@@ -16,15 +16,9 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,markdown,godot,linux,vscode)](https://skillicons.dev)
-<img align="right" alt="Spinning Luigi" height="150" src="https://media.tenor.com/fzl1j4NuPIwAAAAi/spinning-luigi.gif"> 
 
-  
- ##
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=userick17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userick17&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+##
 
  
 
