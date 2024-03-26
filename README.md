@@ -4,7 +4,7 @@ I'm Erick Washington, passionate about the world of technology. Welcome to my Gi
 
 ## 🔧 Technologies and Tools
 
->[![My Skills](https://skillicons.dev/icons?i=js,html,css,godot,git,bash,linux,vim)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bash,linux,vim)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
