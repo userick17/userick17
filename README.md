@@ -4,7 +4,7 @@ I'm Erick Washington, passionate about the world of technology. Welcome to my Gi
 
 ## 🔧 Technologies and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,markdown,bash,sublime,vim,codepen,windows,mint)](https://skillicons.dev)<img src="https://github.com/userick17/userick17/assets/117551076/c31787c6-745b-4e34-8cfc-fd6db50b97a9](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F591231.png&f=1&nofb=1&ipt=7ef1b2c75194a72f34d0087468df01f0deccc3f826cb3f7459af644f45417cd1&ipo=images)https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F591231.png&f=1&nofb=1&ipt=7ef1b2c75194a72f34d0087468df01f0deccc3f826cb3f7459af644f45417cd1&ipo=images" width="48" height="48">
+[![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,markdown,bash,sublime,vim,neovim,codepen,windows,mint)](https://skillicons.dev)<img src="https://github.com/userick17/userick17/assets/117551076/c31787c6-745b-4e34-8cfc-fd6db50b97a9](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F591231.png&f=1&nofb=1&ipt=7ef1b2c75194a72f34d0087468df01f0deccc3f826cb3f7459af644f45417cd1&ipo=images)https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F591231.png&f=1&nofb=1&ipt=7ef1b2c75194a72f34d0087468df01f0deccc3f826cb3f7459af644f45417cd1&ipo=images" width="48" height="48">
 
 ## 🌱 Currently Learning
 
