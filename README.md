@@ -26,7 +26,7 @@ I'm Erick Washington, passionate about the world of technology. Welcome to my Gi
 <div align="left">
    <a href="https://github.com/userick17">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=userick17&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userick17&layout=compact&langs_count=10&theme=transparent"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userick17&hide=html&layout=compact&langs_count=10&theme=transparent"/>
    </a>
 </div>
 
