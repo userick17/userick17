@@ -12,7 +12,6 @@ I'm Erick Washington, passionate about the world of technology. Welcome to my Gi
 
 ## 🌱 Currently Learning
 
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,react,python,php,git,nodejs,docker,godot,discordjs,notion" /><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fs3.timetoast.com%2Fpublic%2Fuploads%2Fphoto%2F15539529%2Fimage%2F5c462362fffaf041ad0d882a69b70187&f=1&nofb=1&ipt=f3c84b5e82afaeaf381c8315ab4b15173d3503bc713af9e5fcc8011fe63a87e5&ipo=images" width="50" height="50">
